@@ -1,0 +1,54 @@
+1 - Winning Game									|| DONE
+2 - Saving Score									|| DONE
+3 - Restarting on 0 Lifes							|| DONE
+4 - Scoreboard										|| DONE
+5 - Better graphic
+6 - Add elevators									|| DONE
+7 - Add sliding pieces								|| DONE
+8 - Add turbo boost
+9 - Custom Map: check winning point					|| DONE
+10 - Custom Map: fix camera							|| DONE
+11 - Custom Map: fix losing/winning mechanism		|| DONE
+12 - Editor: create grid							|| DONE
+13 - Editor: create ghost							|| DONE
+14 - Editor: create pieces							|| DONE
+15 - Editor: create spawnPoint and EndPoint pics
+16 - Editor: Make Spawn and End mandatory			|| DONE
+17 - Editor: limit "zoom"							|| DONE
+18 - Editor: rotate objects							|| DONE
+19 - Editor: Test map
+20 - Editor: Edit already Saved Map (still open)	|| DONE
+21 - Editor: Edit already Saved Map (reopen old)	|| CANCELED
+22 - PHP: rollback on save problems					|| POSTPONED
+23 - User: create user system
+24 - User: add Google Play Game Services
+25 - User: find alternative to Google Play (Android UID?)
+26 - Highscore: save score at end game				|| DONE
+27 - Highscore: show top 10							|| DONE
+28 - Highscore: show best time and name				|| DONE
+29 - Highscore: save ghost
+30 - Mainmenu: show map image
+31 - Editor: save map image
+32 - Game: Go back button on each scene				|| DONE
+33 - Editor: improve grid system (too many objects)
+33 - CustomLevel: rotate view						|| DONE
+34 - Editor: better winning piece
+35 - Editor: add current vertical level				|| DONE
+36 - Editor: add projection on grid					|| DONE
+37 - PHP: Security
+38 - Editor: remove pieces							|| DONE
+39 - CustomLevel: add map rating
+40 - CustomLevel: add map like
+41 - Everywhere: add feedback						|| DONE
+42 - Everywhere: BUG: only one Modal, feedback problems
+43 - Editor: fix default block (before selection)	|| DONE
+44 - Editor: fix moving part removal				|| DONE
+45 - Port to Android								|| DONE
+46 - CustomLevel: Set neutral acc on ready position	|| 
+47 - MainMenu: exit game on esc/go_back				|| DONE
+48 - disable screen saver on game					|| DONE
+49 - disable portrait orientation					|| DONE
+50 - pinch for zoom									||
+51 - Editor: slide for editor movements				|| CHECK
+52 - CustomLevel: add background to data			|| 
+53 - Add back button								|| 
